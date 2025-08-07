@@ -1,10 +1,3 @@
-Para que tu documento en GitHub se vea **exactamente igual que en las imágenes** (bien estructurado, con sangrías, líneas, íconos de árbol, títulos grandes y resaltados), debes **usar correctamente Markdown (`README.md`)**.
-
-Aquí tienes el contenido que puedes **copiar y pegar directamente en tu archivo `README.md`** para que se vea como en tus capturas:
-
----
-
-```markdown
 # Estructura del proyecto
 
 ```
