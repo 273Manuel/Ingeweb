@@ -105,9 +105,3 @@ Porque permite que cualquier miembro del equipo comprenda fácilmente la estruct
 1. Mejora la accesibilidad para todos los usuarios, incluidas personas con discapacidad.
 2. Facilita el posicionamiento en buscadores gracias a su estructura clara.
 3. Hace el código más limpio, ordenado y fácil de mantener.
-
-```
-
----
-Si quieres, también te puedo generar directamente el archivo `.md` o PDF para subirlo. ¿Te gustaría eso?
-```
