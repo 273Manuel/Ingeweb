@@ -1,6 +1,5 @@
 # Estructura del proyecto
 
-```
 
 /IngeWebA3/
 ├── index.html
@@ -14,7 +13,6 @@
 └── /docs/
 └── diagrama-estructura.png
 
-````
 
 ### Explicación:
 
