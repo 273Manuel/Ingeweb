@@ -11,10 +11,17 @@ Arquitectura cliente-servidor ( clienteservidor.html)
 Semántica y accesibilidad en HTML5 ( html5.html)
 
 
+### Reflexión individual
 
+---
 
+Al realizar esta actividad, se comprendió que aplicar una estructura semántica en el desarrollo web no solo mejora la organización del código, sino que también permite que sea más claro, accesible y fácilmente entendible por otros programadores. Esta práctica influye positivamente en la usabilidad y en la visibilidad del sitio en motores de búsqueda.
 
+Además, se reconoció la relevancia de incorporar etiquetas como `<header>`, `<main>`, `<section>` y `<footer>`, ya que cumplen funciones esenciales para estructurar lógicamente el contenido de una página. Su uso va más allá del diseño visual, ya que contribuye a mantener un desarrollo coherente y bien ordenado.
 
+Finalmente, se adquirieron habilidades para estructurar adecuadamente los archivos y directorios de un proyecto web, y se aprendió a publicarlos en un repositorio de GitHub utilizando control de versiones, lo cual es clave para mantener un flujo de trabajo colaborativo y profesional.
+
+---
 
 # Estructura del proyecto
 
