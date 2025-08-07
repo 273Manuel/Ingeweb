@@ -16,7 +16,7 @@
 
 ````
 
-Explicación:
+### Explicación:
 
 - `index.html`: Página principal con la historia de la ingeniería web.
 - Los demás archivos `.html` contienen explicaciones específicas según el tema.
@@ -52,23 +52,15 @@ Clonar un repositorio es el proceso de copiar todo el contenido de un proyecto d
 1. Abre la terminal (`Ctrl + Alt + T` o buscar en el menú de aplicaciones).
 2. Verifica si Git está instalado:
 
-   ```bash
+   bash
    git --version
-````
 
-Si no lo está, instala con:
 
-```bash
-sudo apt update
-sudo apt install git
-```
+Si no lo está, instala con: sudo apt update sudo apt install git
 
-3. Elige una carpeta para clonar el proyecto:
 
-   ```bash
-   cd Documentos
-   ```
-
+3. Elige una carpeta para clonar el proyecto: cd Documentos
+   
    Si no sabes cómo ver las carpetas desde el terminal, usa `ls` para listarlas.
 
 4. Copia la URL del repositorio desde GitHub:
@@ -76,25 +68,12 @@ sudo apt install git
    * Ingrese a: [https://github.com/273Manuel/Ingeweb.git](https://github.com/273Manuel/Ingeweb.git)
    * Haz clic en el botón **"Code"** y copia el enlace **HTTPS**
 
-5. Clona el repositorio:
+5. Clona el repositorio: git clone https://github.com/273Manuel/Ingeweb.git
+   
+6. Accede a la carpeta del proyecto: cd Ingeweb
 
-   ```bash
-   git clone https://github.com/273Manuel/Ingeweb.git
-   ```
+7. Abre el archivo `index.html` en el navegador: xdg-open index.html
 
-6. Accede a la carpeta del proyecto:
-
-   ```bash
-   cd Ingeweb
-   ```
-
-7. Abre el archivo `index.html` en el navegador:
-
-   ```bash
-   xdg-open index.html
-   ```
-
----
 
 ## Cómo clonar el repositorio en **Windows**
 
@@ -102,36 +81,18 @@ sudo apt install git
 
 2. Abre el programa **Git Bash** (viene con Git).
 
-3. Elige una carpeta de destino, por ejemplo:
-
-   ```bash
-   cd /c/Users/TuUsuario/Documentos
-   ```
+3. Elige una carpeta de destino, por ejemplo: cd /c/Users/TuUsuario/Documentos
 
 4. Copia la URL del repositorio desde GitHub:
 
    * Ingrese a: [https://github.com/273Manuel/Ingeweb.git](https://github.com/273Manuel/Ingeweb.git)
    * Haz clic en "Código" y copia el enlace HTTPS
 
-5. Clona el repositorio:
+5. Clona el repositorio: git clone https://github.com/273Manuel/Ingeweb.git
 
-   ```bash
-   git clone https://github.com/273Manuel/Ingeweb.git
-   ```
+6. Accede al proyecto: cd Ingeweb
 
-6. Accede al proyecto:
-
-   ```bash
-   cd Ingeweb
-   ```
-
-7. Abre `index.html` con doble clic o usa Visual Studio Code:
-
-   ```bash
-   code .
-   ```
-
----
+7. Abre `index.html` con doble clic o usa Visual Studio Code: code .
 
 # Reflexión en equipo
 
@@ -148,8 +109,5 @@ Porque permite que cualquier miembro del equipo comprenda fácilmente la estruct
 ```
 
 ---
-
-✅ **Pega todo eso tal como está en tu archivo `README.md` en GitHub y se verá igual que en tus imágenes.**
-
 Si quieres, también te puedo generar directamente el archivo `.md` o PDF para subirlo. ¿Te gustaría eso?
 ```
