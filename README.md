@@ -34,13 +34,13 @@ Si no lo esta, instala con: sudo apt update sudo apt install git
 
 Elige una carpeta para clonar el proyecto: cd Documentos Si no sabes cómo ver las carpetas desde el terminal utiliza el comando ls el cual visualiza las carpetas
 
-Copia la URL del repositorio desde GitHub:
+Copia la URL del repositorio desde GitHub:https://github.com/273Manuel/Ingeweb.git
 
-Ingrese a 
+Ingrese a https://github.com/273Manuel/Ingeweb.git
 Haz clic en el botón "Code" y copia el enlace HTTPS
 Clona el repositorio: git clone 
 
-Acceda a la carpeta del proyecto: cd IngeWebA3
+Acceda a la carpeta del proyecto: cd Ingeweb
 
 Abra el archivo index.html en el navegador: xdg-open index.html
 
@@ -49,9 +49,9 @@ Instale Git desde: https://git-scm.com/download/win
 Abre el programa Git Bash (viene incluido con Git)
 Elige una carpeta de destino, por ejemplo: cd /c/Users/TuUsuario/Documentos
 Copia la URL del repositorio desde GitHub:
-Ingrese a https://github.com/JCbriol04/IngeWebA3
+Ingrese a https://github.com/273Manuel/Ingeweb.git
 Haz clic en "Código" y copia el enlace HTTPS
-Clona el repositorio: git clone https://github.com/JCbriol04/IngeWebA3.git
+Clona el repositorio: git clone https://github.com/273Manuel/Ingeweb.git
 Acceder al proyecto: cd IngeWebA3
 Abre index.html en tu navegador con doble clic o usa Visual Studio Code: code .
 Reflexión en equipo
