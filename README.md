@@ -16,7 +16,7 @@
 
 ````
 
-### Explicación:
+Explicación:
 
 - `index.html`: Página principal con la historia de la ingeniería web.
 - Los demás archivos `.html` contienen explicaciones específicas según el tema.
