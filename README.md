@@ -1,7 +1,7 @@
 ### Tema del proyecto
 
 
-"" Construcción de una Web Informativa Semántica
+Construcción de una Web Informativa Semántica
 
 Este repositorio contiene una página principal informativa sobre los Fundamentos de la Web Moderna, elaborada con HTML5 siguiendo las buenas prácticas de semántica y accesibilidad. Está dividido en secciones sobre:
 
