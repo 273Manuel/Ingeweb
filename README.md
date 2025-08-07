@@ -1,3 +1,21 @@
+### Tema del proyecto
+
+
+"" Construcción de una Web Informativa Semántica
+
+Este repositorio contiene una página principal informativa sobre los Fundamentos de la Web Moderna, elaborada con HTML5 siguiendo las buenas prácticas de semántica y accesibilidad. Está dividido en secciones sobre:
+
+Historia de la ingeniería web (en index.html)
+¿Qué es la ingeniería web? ( ingenieriaweb.html)
+Arquitectura cliente-servidor ( clienteservidor.html)
+Semántica y accesibilidad en HTML5 ( html5.html)
+
+
+
+
+
+
+
 # Estructura del proyecto
 
 
