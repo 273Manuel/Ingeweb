@@ -1,52 +1,6 @@
-### Tema del proyecto
+#IngWebA3
 
-
-Construcción de una Web Informativa Semántica
-
-Este repositorio contiene una página principal informativa sobre los Fundamentos de la Web Moderna, elaborada con HTML5 siguiendo las buenas prácticas de semántica y accesibilidad. Está dividido en secciones sobre:
-
-Historia de la ingeniería web (en index.html)
-¿Qué es la ingeniería web? ( ingenieriaweb.html)
-Arquitectura cliente-servidor ( clienteservidor.html)
-Semántica y accesibilidad en HTML5 ( html5.html)
-
-
-### Reflexión individual
-
----
-
-Al realizar esta actividad, se comprendió que aplicar una estructura semántica en el desarrollo web no solo mejora la organización del código, sino que también permite que sea más claro, accesible y fácilmente entendible por otros programadores. Esta práctica influye positivamente en la usabilidad y en la visibilidad del sitio en motores de búsqueda.
-
-Además, se reconoció la relevancia de incorporar etiquetas como `<header>`, `<main>`, `<section>` y `<footer>`, ya que cumplen funciones esenciales para estructurar lógicamente el contenido de una página. Su uso va más allá del diseño visual, ya que contribuye a mantener un desarrollo coherente y bien ordenado.
-
-Finalmente, se adquirieron habilidades para estructurar adecuadamente los archivos y directorios de un proyecto web, y se aprendió a publicarlos en un repositorio de GitHub utilizando control de versiones, lo cual es clave para mantener un flujo de trabajo colaborativo y profesional.
-
----
-
-# Estructura del proyecto
-
-
-/IngeWebA3/
-├── index.html
-├── ingenieriaweb.html
-├── clienteservidor.html
-├── html5.html
-├── /css/
-│   └── estilos.css
-├── /js/
-│   └── script.js
-└── /docs/
-└── diagrama-estructura.png
-
-
-### Explicación:
-
-- `index.html`: Página principal con la historia de la ingeniería web.
-- Los demás archivos `.html` contienen explicaciones específicas según el tema.
-- Las carpetas `/css/`, `/js/` y `/docs/` permiten separar estilos, scripts y documentación gráfica.
-- El archivo `README.md` documenta todo el proyecto, su estructura y cómo ejecutarlo.
-
----
+## Repositorio de github para el trabajo individual de la asignatura Ingenieria web 1. 
 
 # Cómo clonar y visualizar el proyecto desde GitHub
 
@@ -117,6 +71,60 @@ Si no lo está, instala con: sudo apt update sudo apt install git
 
 7. Abre `index.html` con doble clic o usa Visual Studio Code: code .
 
+## Guia 1 ingenieria web: 
+### Tema del proyecto
+
+
+Construcción de una Web Informativa Semántica
+
+Este repositorio contiene una página principal informativa sobre los Fundamentos de la Web Moderna, elaborada con HTML5 siguiendo las buenas prácticas de semántica y accesibilidad. Está dividido en secciones sobre:
+
+Historia de la ingeniería web (en index.html)
+¿Qué es la ingeniería web? ( ingenieriaweb.html)
+Arquitectura cliente-servidor ( clienteservidor.html)
+Semántica y accesibilidad en HTML5 ( html5.html)
+
+
+
+
+### Reflexión individual
+
+---
+
+Al realizar esta actividad, se comprendió que aplicar una estructura semántica en el desarrollo web no solo mejora la organización del código, sino que también permite que sea más claro, accesible y fácilmente entendible por otros programadores. Esta práctica influye positivamente en la usabilidad y en la visibilidad del sitio en motores de búsqueda.
+
+Además, se reconoció la relevancia de incorporar etiquetas como `<header>`, `<main>`, `<section>` y `<footer>`, ya que cumplen funciones esenciales para estructurar lógicamente el contenido de una página. Su uso va más allá del diseño visual, ya que contribuye a mantener un desarrollo coherente y bien ordenado.
+
+Finalmente, se adquirieron habilidades para estructurar adecuadamente los archivos y directorios de un proyecto web, y se aprendió a publicarlos en un repositorio de GitHub utilizando control de versiones, lo cual es clave para mantener un flujo de trabajo colaborativo y profesional.
+
+---
+
+# Estructura del proyecto
+
+
+/IngeWebA3/
+├── index.html
+├── ingenieriaweb.html
+├── clienteservidor.html
+├── html5.html
+├── /css/
+│   └── estilos.css
+├── /js/
+│   └── script.js
+└── /docs/
+└── diagrama-estructura.png
+
+
+### Explicación:
+
+- `index.html`: Página principal con la historia de la ingeniería web.
+- Los demás archivos `.html` contienen explicaciones específicas según el tema.
+- Las carpetas `/css/`, `/js/` y `/docs/` permiten separar estilos, scripts y documentación gráfica.
+- El archivo `README.md` documenta todo el proyecto, su estructura y cómo ejecutarlo.
+
+---
+
+
 # Reflexión en equipo
 
 ## ¿Por qué organizar de forma semántica los contenidos facilita el trabajo colaborativo y el mantenimiento del sitio?
@@ -128,3 +136,6 @@ Porque permite que cualquier miembro del equipo comprenda fácilmente la estruct
 1. Mejora la accesibilidad para todos los usuarios, incluidas personas con discapacidad.
 2. Facilita el posicionamiento en buscadores gracias a su estructura clara.
 3. Hace el código más limpio, ordenado y fácil de mantener.
+
+## Guia 2 ingenieria web: 
+### Tema del proyecto
