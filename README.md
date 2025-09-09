@@ -204,11 +204,16 @@ Esto convierte a la aplicación en una herramienta ligera, práctica y adaptable
 
 ## Estructura básica del proyecto
 
-/css        → Hojas de estilo personalizadas (modo claro/oscuro, temas accesibles).
-/js         → Lógica en JavaScript para parsear CSV, generar tablas y gráficos.
-/assets     → Recursos como íconos, tipografías y plantillas.
-/docs       → Documentación del proyecto y diagramas de arquitectura.
-index.html  → Punto de entrada principal con la interfaz de usuario.
+├── index.html                
+├── /css/
+│   └── estilos.css         
+├── /js/
+│   └── script.js              
+├── /assets/
+│   └── logo.png               
+└── /docs/
+    └── diagrama-estructura.png 
+
 
 
 **Ventajas de esta estructura:**
