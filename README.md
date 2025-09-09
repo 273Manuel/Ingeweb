@@ -259,7 +259,7 @@ Aunque esta aplicación se ejecuta totalmente en el cliente, el modelo conceptua
 ### Para que el proyecto funcione tienes que poner en el terminal:
 ### 1. npm install
 ### 2. npm run dev
-### listo :3 
+### Listo :3 
 
 ---
 
