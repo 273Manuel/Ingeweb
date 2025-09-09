@@ -256,10 +256,10 @@ Aunque esta aplicación se ejecuta totalmente en el cliente, el modelo conceptua
 * **Flexibilidad:** facilita reemplazar tecnologías en el cliente o servidor sin afectar la otra parte.
 
 
-Para que el proyecto funcione tienes que poner en el terminal:
-!. npm install
-2. npm run dev
-Y listo :3
+### Para que el proyecto funcione tienes que poner en el terminal:
+### 1. npm install
+### 2. npm run dev
+### Y listo :3 
 
 ---
 
