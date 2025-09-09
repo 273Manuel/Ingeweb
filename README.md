@@ -173,3 +173,84 @@ En una arquitectura web moderna, el **cliente** (navegador) se encarga de mostra
 - **Escalabilidad:** se pueden modificar la interfaz o la lógica del servidor sin afectar la otra parte.
 - **Flexibilidad tecnológica:** el c
 
+
+¡Perfecto! 🙌 Te dejo la documentación lista para que solo copies y pegues en tu parcial, siguiendo el mismo estilo que usaste antes:
+
+---
+
+# Tema del Proyecto
+
+Visualizador Interactivo de Datos CSV con Accesibilidad y Gráficos Dinámicos
+
+Este proyecto tiene como objetivo construir una aplicación web de una sola página (SPA) que permita al usuario pegar o importar datos en formato CSV y visualizarlos tanto en una tabla interactiva como en gráficos configurables. Además, el proyecto integra principios de **accesibilidad** basados en la WCAG para garantizar que sea usable por personas con diferentes tipos de discapacidad.
+
+---
+
+## Propósito y ventajas de la aplicación
+
+La aplicación está diseñada para simular una herramienta básica de inteligencia de negocios (BI), similar a funciones esenciales de Excel, pero directamente en el navegador.
+
+**Ventajas principales:**
+
+* Permite cargar datos CSV desde texto plano o archivos.
+* Muestra automáticamente los datos en una tabla estructurada.
+* Genera gráficos dinámicos (barras verticales u horizontales, entre otros).
+* Ofrece personalización: elección de columnas para eje X e Y, modo oscuro y filtros por columna.
+* Incluye opción de exportar los gráficos como imágenes PNG para usarlos en informes o presentaciones.
+
+Esto convierte a la aplicación en una herramienta ligera, práctica y adaptable para el análisis rápido de información.
+
+---
+
+## Estructura básica del proyecto
+
+```
+/css        → Hojas de estilo personalizadas (modo claro/oscuro, temas accesibles).
+/js         → Lógica en JavaScript para parsear CSV, generar tablas y gráficos.
+/assets     → Recursos como íconos, tipografías y plantillas.
+/docs       → Documentación del proyecto y diagramas de arquitectura.
+index.html  → Punto de entrada principal con la interfaz de usuario.
+```
+
+**Ventajas de esta estructura:**
+
+* Facilita el mantenimiento, al separar claramente la lógica (JS), estilo (CSS) y estructura (HTML).
+* Permite escalar la aplicación para incluir más tipos de gráficos o funciones sin romper la organización.
+* Hace que cualquier desarrollador pueda ubicar rápidamente dónde modificar cada parte del sistema.
+
+---
+
+## Importancia de la accesibilidad (WCAG)
+
+La aplicación cumple con criterios de accesibilidad según las **Pautas de Accesibilidad al Contenido Web (WCAG)**, incluyendo:
+
+* **Perceptible:** contraste adecuado entre colores (blanco y negro) y soporte de modo oscuro.
+* **Operable:** navegación por teclado para acceder a todas las opciones (formularios, selectores, botones).
+* **Comprensible:** mensajes de error claros cuando el CSV está mal formateado.
+* **Robusto:** compatible con tecnologías de asistencia como lectores de pantalla.
+
+Se consideraron al menos 3 tipos de discapacidad:
+
+* **Visual:** contraste alto, tipografías legibles, soporte de lectores de pantalla.
+* **Motora:** controles accesibles mediante teclado, sin depender únicamente del mouse.
+* **Cognitiva:** interfaz clara, con instrucciones simples y mensajes de advertencia.
+
+---
+
+## Importancia de la separación cliente-servidor
+
+Aunque esta aplicación se ejecuta totalmente en el cliente, el modelo conceptual sigue la filosofía de separar responsabilidades:
+
+* **Cliente (frontend):** encargado de la interfaz, lectura del CSV, renderizado de tablas y gráficos.
+* **Servidor (backend, opcional en versiones futuras):** encargado de almacenar grandes volúmenes de datos, procesarlos y devolver resultados preprocesados.
+
+**Beneficios de esta separación:**
+
+* **Seguridad:** datos sensibles o masivos pueden mantenerse en el servidor.
+* **Eficiencia:** el servidor puede procesar y enviar solo los resultados necesarios.
+* **Escalabilidad:** permite extender la aplicación hacia un modelo cliente-servidor completo en caso de integrarla con bases de datos o APIs.
+* **Flexibilidad:** facilita reemplazar tecnologías en el cliente o servidor sin afectar la otra parte.
+
+---
+
+
