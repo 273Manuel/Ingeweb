@@ -261,6 +261,12 @@ Aunque esta aplicación se ejecuta totalmente en el cliente, el modelo conceptua
 ### 2. npm run dev
 ### Listo :3 
 
+https://273manuel.github.io/Parcial-Practico-/
+
+### No te va a cargar porque faltaria instalarle los pasos de arriba 
+
+
+
 ---
 
 
